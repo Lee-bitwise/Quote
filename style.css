@@ -4,14 +4,14 @@ body{
 
 #containter{
     margin: 0 auto;
-    background-color:greenyellow;
+    background-color:rgb(47, 248, 255);
     text-align: center;
     width: 750px;
     height: 275px;
     border: 10px solid white;
 }
 #card{
-color:white;
+color:black;
 margin:25px auto;
 font-size: 27px;
 
