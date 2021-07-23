@@ -1,0 +1,29 @@
+body{
+    background-color:gray;
+}
+
+#containter{
+    margin: 0 auto;
+    background-color:greenyellow;
+    text-align: center;
+    width: 750px;
+    height: 275px;
+    border: 10px solid white;
+}
+#card{
+color:white;
+margin:25px auto;
+font-size: 27px;
+
+
+}
+#buttonid{
+margin: 50px auto;
+height: 50px;
+width: 250px;
+background-color: #4CAF50;
+cursor: pointer;
+text-align: center;
+border: none;
+text-decoration: none;
+}
